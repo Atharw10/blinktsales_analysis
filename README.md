@@ -32,6 +32,7 @@ Chart requirments
 7. All Metrics by Outlet Type:
 	Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) 	broken down by different outlet types.
 	Chart Type: Matrix Card.
-![image](https://github.com/user-attachments/assets/c480cb9b-e4ac-469d-881c-33329d081a82)
+![image](https://github.com/user-attachments/assets/19a24065-ecf8-469e-b188-8d7a418b4dbc)
 
-![image](https://github.com/user-attachments/assets/afb81502-f119-4942-9628-3300e7d628a2)
+
+![image](https://github.com/user-attachments/assets/d27c8753-18e1-4311-aa16-d543d7bc31c7)
